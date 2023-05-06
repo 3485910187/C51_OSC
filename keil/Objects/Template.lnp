@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\TLC1543.obj",
+".\Objects\12864.obj",
+".\Objects\OSC.obj" 
+TO ".\Objects\Template" 
+PRINT(".\Listings\Template.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
